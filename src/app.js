@@ -1,4 +1,4 @@
-console.log("Merhaba Kodlama.io")
+console.log("Merhaba Kod lama.io")
 
 //JS type safe değildir
 let dolarBugun = 9.30
